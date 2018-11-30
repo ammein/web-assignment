@@ -1,0 +1,39 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.parent{
+    border: 10px solid red;
+    background-color: #F5F5F5;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.kotak-kecil{
+    border: 10px solid red;
+    background-color:blue;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.kotak-isi{
+    background-color:pink;
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    position: relative;
+    padding: 40px;
+}
+
+.fontstyledalam {
+    font-style: oblique;
+    font-size: 14px;
+    color: blue;
+}

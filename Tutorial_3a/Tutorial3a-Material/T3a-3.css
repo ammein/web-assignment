@@ -1,0 +1,17 @@
+/* An external stylesheet */
+
+a       { text-decoration: none }
+
+a:hover { text-decoration: underline;
+          color: red;
+          background-color: #ccffcc }
+
+em { color: red;
+        font-style: oblique;
+        background-color: #ffffff}
+
+ul {margin-left: 2cm}
+
+ul { text-decoration: underline;
+  margin-left: .5cm }
+  
