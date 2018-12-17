@@ -1,0 +1,48 @@
+ 
+  body 
+  {
+	  background-color:SkyBlue;
+	text-align:center;
+		}
+		
+	
+
+  h1   
+  {
+	  text-align:center;
+	  font-family:Georgia;
+	  color:Navy;
+	  }
+	  
+	 h3   
+  {
+
+	  font-family:Verdana;
+	  color:blue;
+	  }
+	  
+
+  p    
+  {
+	  text-align:center;
+	  font-family:Arial;
+	  color:red;
+	  }
+	  
+	  
+	  table {
+  border-collapse: collapse;
+  width: 60%;
+   text-align: center;
+   padding: 15px;
+}
+
+
+table, th  , td{
+  border: 3px solid black;
+}
+
+.tr {
+	color: red;
+
+}
